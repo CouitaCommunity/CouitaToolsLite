@@ -32,12 +32,12 @@ CouitaTools Lite использует **самые быстрые серверы
 
 
 
-* Лаборатория Касперского: KVRT — Virus Removal Tool
+* —
 
 
 
 * Прочие разработчики:
 
-    * Adwcleaner
+    * -
 
-    * Trend Micro HouseCall
+    * -
