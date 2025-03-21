@@ -32,6 +32,6 @@ CouitaTools Lite использует **самые быстрые серверы
 
 
 
-* Лаборатория Касперского - KVRT
+* Process Monitor
 * TotalRegistry
 * Security Check by glax24
